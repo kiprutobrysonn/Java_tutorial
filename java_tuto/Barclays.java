@@ -1,0 +1,1 @@
+Promoting exclusive breastfeeding means encouraging mothers to only breastfeed their infants for the first six months of life, without giving them any other liquids or solid foods. Exclusive breastfeeding provides all the necessary nutrients, vitamins, and antibodies that an infant needs to grow and develop properly

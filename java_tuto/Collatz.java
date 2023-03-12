@@ -1,4 +1,5 @@
 package java_tuto;
+import java.util.*;
 
 public class Collatz {
 
@@ -24,9 +25,10 @@ public class Collatz {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		collatzConjecture(346789999);
-		int x[]=int[10];
-		int a[]= {1,2,3};int n[];n=a;
+
+ Scanner input = new Scanner(System.in);
+System.out.println("Enter the number ");
+		collatzConjecture(input.nextInt());
 
 	}
 

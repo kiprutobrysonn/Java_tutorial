@@ -12,6 +12,6 @@ public class ABC implements  Runnable{
         ABC obj = new ABC();
         Thread t1 = new Thread(obj);
         t1.start();
-        main.sleep
+        main.sleep;
     }
 }
